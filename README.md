@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js , Flask**
 
-- 👨‍💻 All of my projects are available at [github.com/SovilBagavan01](github.com/SovilBagavan01)
+- 👨‍💻 All of my projects are available at https://github.com/SovilBagavan01/SovilBagavan01
 
 - 📫 How to reach me **sovilbagavan4070@gmail.com**
 
